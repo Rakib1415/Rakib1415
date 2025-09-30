@@ -20,6 +20,15 @@ React | Next.js | Express | NestJS | PostgreSQL | MongoDB
 
 ---
 
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakib1415&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib1415&layout=compact&theme=default&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Rakib1415&theme=default&hide_border=true)
+
+---
+
 ### 🌐 Connect
 [Resume](https://drive.google.com/file/d/1vab5FGlxmG8KTt5hcW6qLCes72U0ZUyG/view?usp=sharing) • [LinkedIn](https://www.linkedin.com/in/md-rakibul-islam-1a2574170/) •  [Portfolio](https://www.linkedin.com/in/md-rakibul-islam-1a2574170/)
 
