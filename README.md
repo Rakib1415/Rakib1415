@@ -24,10 +24,6 @@
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakib1415&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib1415&layout=compact&theme=default&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Rakib1415&theme=default&hide_border=true)
-
 ---
 
 ### 📈 Contribution Graph
