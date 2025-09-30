@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Md. Rakibul Islam Rakib
 
-**Full Stack Developer**  
-React | Next.js | Express | NestJS | PostgreSQL | MongoDB  
+
+### 💻 Full Stack Developer
+
+**Tech Stack:**  
+`React` • `Next.js` • `Express` • `NestJS` • `PostgreSQL` • `MongoDB` 
 
 ---
 
