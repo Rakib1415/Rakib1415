@@ -21,13 +21,13 @@
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakib1415&show_icons=true&theme=default&hide_border=true)
+### 📈 Contribution Graph
+[![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rakib1415&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 📈 Contribution Graph
-[![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rakib1415&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakib1415&show_icons=true&theme=default&hide_border=true)
 
 ---
 
