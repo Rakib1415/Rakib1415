@@ -1,16 +1,37 @@
-### Hi there 👋
+# 👋 Hi, I'm Md. Rakibul Islam Rakib
 
-<!--
-**Rakib1415/Rakib1415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer**  
+React | Next.js | Express | NestJS | PostgreSQL | MongoDB  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- Passionate about building scalable web applications and APIs.  
+- Experienced in frontend & backend development with modern frameworks.  
+- Always eager to learn, share, and collaborate on exciting projects. 
+
+---
+
+### 🛠 Skills
+- **Frontend:** React, Next.js  
+- **Backend:** Express, NestJS  
+- **Databases:** PostgreSQL, MongoDB  
+
+---
+
+### 📂 Projects
+- [Awesome App](#) – description  
+- [Next Starter Kit](#) – description  
+- [API Boilerplate](#) – description  
+
+---
+
+### 📊 GitHub at a Glance
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakib1415&show_icons=true&theme=default&hide_border=true)
+
+---
+
+### 🌐 Connect
+[Resume](#) • [LinkedIn](#) • [Twitter](#) • [Portfolio](#)
+
+---
