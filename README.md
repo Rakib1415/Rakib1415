@@ -15,18 +15,12 @@ React | Next.js | Express | NestJS | PostgreSQL | MongoDB
 ### 🛠 Skills
 - **Frontend:** React, Next.js  
 - **Backend:** Express, NestJS  
-- **Databases:** PostgreSQL, MongoDB  
-
----
-
-### 📂 Projects
-- [Awesome App](#) – description  
-- [Next Starter Kit](#) – description  
-- [API Boilerplate](#) – description  
+- **Databases:** PostgreSQL, MongoDB
+- **Tools & Platforms:** Git, Docker, AWS
 
 ---
 
 ### 🌐 Connect
-[Resume](#) • [LinkedIn](#) • [Twitter](#) • [Portfolio](#)
+[Resume](https://drive.google.com/file/d/1vab5FGlxmG8KTt5hcW6qLCes72U0ZUyG/view?usp=sharing) • [LinkedIn](https://www.linkedin.com/in/md-rakibul-islam-1a2574170/) •  [Portfolio](https://www.linkedin.com/in/md-rakibul-islam-1a2574170/)
 
 ---
