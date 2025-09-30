@@ -26,11 +26,6 @@ React | Next.js | Express | NestJS | PostgreSQL | MongoDB
 
 ---
 
-### 📊 GitHub at a Glance
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakib1415&show_icons=true&theme=default&hide_border=true)
-
----
-
 ### 🌐 Connect
 [Resume](#) • [LinkedIn](#) • [Twitter](#) • [Portfolio](#)
 
