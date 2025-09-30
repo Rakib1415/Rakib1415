@@ -2,9 +2,7 @@
 
 
 ### 💻 Full Stack Developer
-
-**Tech Stack:**  
-`React` • `Next.js` • `Express` • `NestJS` • `PostgreSQL` • `MongoDB` 
+React | Next.js | Express | NestJS | PostgreSQL | MongoDB
 
 ---
 
